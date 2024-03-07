@@ -1,4 +1,4 @@
-# vscode-training-maven
+# vscode-training-gradle
 Platform for using maven in vscode training
 
 ## Getting Started
