@@ -8,6 +8,8 @@ import org.slf4j.LoggerFactory;
 public class Wallet {
     private final UUID uuid;
     Logger logger = LoggerFactory.getLogger(Wallet.class);
+
+    //Balance should always be zero.
     private int balance = 0;
 
     public Wallet() {
